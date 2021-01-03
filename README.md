@@ -6,7 +6,7 @@
 
 ## Jump To Wiki
 ### Selengkapnya di wiki repo ini
-> `https://github.com/FOSTI-UMS/training-kit/wiki`
+> https://github.com/FOSTI-UMS/training-kit/wiki
 
 
 ## Dalam Repository ini terdapat beberapa project digunakan untuk trial, antara lain:
