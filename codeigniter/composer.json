@@ -1,0 +1,10 @@
+{
+    "name": "alfiankan/codeigniter",
+    "authors": [
+        {
+            "name": "Alfiankan",
+            "email": "git@alfiankan.com"
+        }
+    ],
+    "require": {}
+}
