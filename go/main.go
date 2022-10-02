@@ -12,4 +12,5 @@ func main()  {
 	decode()
 
 	//menambah function untuk Generate Password
+	generate()
 }
