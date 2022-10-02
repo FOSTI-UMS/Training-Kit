@@ -10,4 +10,7 @@ func main()  {
 	//menambah function untuk encode dan decode base64
 	encode()
 	decode()
+
+	//menambah function untuk Generate Password
+	generate()
 }
